@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T14:21:20.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.6" etag="EVBH_bMRqRjm2TgPhGz9" type="github"><diagram name="Sayfa -1" id="idEaKe2rp8cXWtOlhv10">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-16T13:14:02.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_HE1yz4Lo8Kz_qrpYxf5" version="21.0.6" type="github">
+  <diagram name="Sayfa -1" id="idEaKe2rp8cXWtOlhv10">
+    <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VoQE2W_dGWVUWedlDvF--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoQE2W_dGWVUWedlDvF--1" target="VoQE2W_dGWVUWedlDvF--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--1" value="Başla" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoQE2W_dGWVUWedlDvF--2" target="VoQE2W_dGWVUWedlDvF--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--2" value="Sayı = 1&lt;br&gt;Toplam = 0&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoQE2W_dGWVUWedlDvF--6" target="VoQE2W_dGWVUWedlDvF--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoQE2W_dGWVUWedlDvF--6" target="VoQE2W_dGWVUWedlDvF--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--6" value="Sayı&amp;lt;1000" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="270" width="84" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoQE2W_dGWVUWedlDvF--8" target="VoQE2W_dGWVUWedlDvF--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--8" value="Sayı % 3 == 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572" y="270" width="84" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--12" value="Toplam =Toplam +Sayı" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="541" y="400" width="146" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--15" value="evet&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="285" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoQE2W_dGWVUWedlDvF--16" target="VoQE2W_dGWVUWedlDvF--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--16" value="Toplam" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--18" value="Bitir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VoQE2W_dGWVUWedlDvF--20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;hayır&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
